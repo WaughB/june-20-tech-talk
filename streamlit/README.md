@@ -1,9 +1,4 @@
-# Streamlit
-
-# Overview
-
-
-# How to run
+# How to run the Streamlit version
 
 ## Prereqs
 First make sure you have the libraries already installed
@@ -29,3 +24,5 @@ curl http://localhost:1234/v1/chat/completions \
 
 ## Running Streamlit
 To actual start running the application, just do `streamlit run code_explainer.py`. This will start the application working on http://localhost:8501/ .
+
+![](streamlit-working.png)
